@@ -1,6 +1,10 @@
 # Deep Learning Journey with Practical Hands-On
 
-Welcome to my repository where I document my learning path towards mastering Deep Learning with practical, hands-on notebooks. This journey takes you through the basics of neural networks, diving into deep learning, and finally to the advanced topics like custom components in TensorFlow 2.0.
+Welcome to my repository, which serves as a journal of my educational journey in the field of Deep Learning. Here you will find a series of practical exercises and real-world applications that have marked my path of learning. Our journey begins with an introduction to the fundamental concept of the Perceptron and dives deeply into the complexities of the inner workings of Deep Neural Networks. We will delve into the various loss, activation, and optimization functions in detail, understanding their behavior and, of course, how these are integrated into the practical implementation of Artificial Neural Networks. This path is paved with strategies for selecting hyperparameters, all within the framework of the TensorFlow Keras library.
+
+Furthermore, I will venture into exploration and experimentation with TensorFlow 2.0, offering a fresh and up-to-date perspective.
+
+Among the problems I have tackled are the classification of images, text, and audio, using various techniques and approaches.
 
 ## Learning Path
 
@@ -66,7 +70,11 @@ The learning path is structured into various sections, each with its own set of 
 
 # Ruta de Aprendizaje en Deep Learning con Ejercicios Prácticos
 
-Bienvenidos a mi repositorio, donde documenté mi trayecto de aprendizaje en Deep Learning con ejercicios prácticos y aplicados. Esta ruta te llevará desde los conceptos básicos de las redes neuronales hasta el aprendizaje profundo y temas avanzados como componentes personalizados en TensorFlow 2.0.
+Bienvenidos a mi repositorio, el cual es el diario de mi viaje formativo en el ámbito del Deep Learning. Aquí encontrarán una colección de ejercicios prácticos y aplicaciones reales que han jalonado mi aprendizaje. Nuestro recorrido comienza con la introducción al concepto fundamental del Perceptrón y se sumerge de lleno en las complejidades del funcionamiento interno de las Redes Neuronales Profundas. Exploraremos en detalle las diversas funciones de pérdida, activación y optimización, así como su comportamiento y, por supuesto, cómo estas se ensamblan en la implementación práctica de las Redes Neuronales Artificiales. Este camino está pavimentado con estrategias para la elección de hiperparámetros, todo ello bajo el amparo de la biblioteca Keras de TensorFlow.
+
+Además, incursionaré en la exploración y experimentación con TensorFlow 2.0, ofreciendo una perspectiva fresca y actualizada.
+
+Entre los problemas que he abordado se incluyen: la clasificación de imágenes, texto y audio, utilizando diversas técnicas y enfoques.
 
 ## Ruta de Aprendizaje
 
